@@ -35,8 +35,8 @@ I'm from Argentina and I study Systems Engineering. I'm passionate about develop
   <br/>
   <br/>
   &nbsp; <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-  &nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-  &nbsp; <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="https://www.instagram.com/emanuelgz.01" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+  &nbsp; <a href="https://www.linkedin.com/in/emanuel-gomez-5248a2219/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a href="mailto:emanuelgomez.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
