@@ -11,7 +11,7 @@ I'm from Argentina and I study Systems Engineering. I'm passionate about develop
 <h2>Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,nodejs,express,python,django,mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,nodejs,express,supabase,python,django,mysql" height="42"/>
 </p>
 
 <h2>GitHub stats</h2>
