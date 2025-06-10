@@ -2,7 +2,7 @@
 
 <div align="center">
 	<p>
-I'm a Web Developer specializing in frontend development with technologies like <strong>React, TypeScript, and TailwindCSS</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Django, Express and MySQL</strong>.
+I'm a Web Developer specializing in frontend development with technologies like <strong>React, TypeScript, and TailwindCSS</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Express and PostgreSQL</strong>.
   </br>
 I'm from Argentina and I study Systems Engineering. I'm passionate about developing user experiences in dynamic web applications, combining design and functionality.
   </p>
