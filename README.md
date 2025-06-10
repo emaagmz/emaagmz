@@ -14,8 +14,6 @@ I'm from Argentina and I study Systems Engineering. I'm passionate about develop
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,nodejs,postgres,supabase" height="42"/>
 </p>
 
-<h2>GitHub stats</h2>
-
 <h2>Connect with me</h2>
 <p align="center">
   Thanks for watching my profile! Have a nice day! :wink: 
