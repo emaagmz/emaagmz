@@ -16,19 +16,6 @@ I'm from Argentina and I study Systems Engineering. I'm passionate about develop
 
 <h2>GitHub stats</h2>
 
-
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=emaagmz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="emaagmz's GitHub Stats" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaagmz&theme=react&show_icons=true&hide_border=true&layout=compact" alt="emaagmz's GitHub Stats" />
-		</td>
-	</tr>
-</table>
-
-
 <h2>Connect with me</h2>
 <p align="center">
   Thanks for watching my profile! Have a nice day! :wink: 
